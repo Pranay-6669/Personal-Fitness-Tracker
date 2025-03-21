@@ -1,0 +1,6 @@
+User_ID,Gender,Age,Height,Weight,Duration,Heart_Rate,Body_Temp
+1,Male,25,175,70,30,80,37.5
+2,Female,30,160,60,25,85,38.0
+3,Male,22,180,75,20,90,37.0
+4,Female,28,165,65,35,95,38.5
+5,Male,35,170,80,15,100,37.8
